@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Secrets
+.env
+*.env
+
+# Local data/logs (MUST NOT be public)
+audit/
+state/
+events/
+drafts/
+heatmap/
+*.jsonl
+*.db
+
+# OS / editor
+.DS_Store
+.vscode/
+
+*.zip
