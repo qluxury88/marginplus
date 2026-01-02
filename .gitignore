@@ -16,9 +16,8 @@ drafts/
 heatmap/
 *.jsonl
 *.db
+*.zip
 
 # OS / editor
 .DS_Store
 .vscode/
-
-*.zip
